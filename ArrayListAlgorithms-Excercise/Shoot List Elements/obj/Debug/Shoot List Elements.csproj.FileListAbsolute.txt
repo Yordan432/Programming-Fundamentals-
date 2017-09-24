@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Shoot List Elements\bin\Debug\Shoot List Elements.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Shoot List Elements\bin\Debug\Shoot List Elements.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Shoot List Elements\bin\Debug\Shoot List Elements.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Shoot List Elements\obj\Debug\Shoot List Elements.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Shoot List Elements\obj\Debug\Shoot List Elements.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Shoot List Elements\obj\Debug\Shoot List Elements.pdb

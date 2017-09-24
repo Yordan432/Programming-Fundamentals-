@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Neighbour Wars\bin\Debug\Neighbour Wars.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Neighbour Wars\bin\Debug\Neighbour Wars.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Neighbour Wars\bin\Debug\Neighbour Wars.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Neighbour Wars\obj\Debug\Neighbour Wars.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Neighbour Wars\obj\Debug\Neighbour Wars.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Neighbour Wars\obj\Debug\Neighbour Wars.csprojResolveAssemblyReference.cache

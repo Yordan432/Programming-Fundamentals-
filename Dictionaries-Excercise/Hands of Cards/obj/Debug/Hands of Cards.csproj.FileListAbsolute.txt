@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\Hands of Cards\bin\Debug\Hands of Cards.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\Hands of Cards\bin\Debug\Hands of Cards.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\Hands of Cards\bin\Debug\Hands of Cards.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\Hands of Cards\obj\Debug\Hands of Cards.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\Hands of Cards\obj\Debug\Hands of Cards.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\Hands of Cards\obj\Debug\Hands of Cards.pdb

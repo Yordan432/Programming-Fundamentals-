@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Bomb Numbers\bin\Debug\Bomb Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Bomb Numbers\bin\Debug\Bomb Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Bomb Numbers\bin\Debug\Bomb Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Bomb Numbers\obj\Debug\Bomb Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Bomb Numbers\obj\Debug\Bomb Numbers.pdb

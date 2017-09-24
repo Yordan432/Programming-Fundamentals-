@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Equal Sum After Extraction\bin\Debug\Equal Sum After Extraction.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Equal Sum After Extraction\bin\Debug\Equal Sum After Extraction.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Equal Sum After Extraction\bin\Debug\Equal Sum After Extraction.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Equal Sum After Extraction\obj\Debug\Equal Sum After Extraction.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Equal Sum After Extraction\obj\Debug\Equal Sum After Extraction.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Equal Sum After Extraction\obj\Debug\Equal Sum After Extraction.csprojResolveAssemblyReference.cache

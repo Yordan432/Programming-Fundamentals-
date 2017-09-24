@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Diamond Problem\bin\Debug\Diamond Problem.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Diamond Problem\bin\Debug\Diamond Problem.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Diamond Problem\bin\Debug\Diamond Problem.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Diamond Problem\obj\Debug\Diamond Problem.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Diamond Problem\obj\Debug\Diamond Problem.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Diamond Problem\obj\Debug\Diamond Problem.pdb

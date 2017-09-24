@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Track Downloader\bin\Debug\Track Downloader.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Track Downloader\bin\Debug\Track Downloader.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Track Downloader\bin\Debug\Track Downloader.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Track Downloader\obj\Debug\Track Downloader.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Track Downloader\obj\Debug\Track Downloader.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Track Downloader\obj\Debug\Track Downloader.csprojResolveAssemblyReference.cache

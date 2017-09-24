@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Extract Emails\bin\Debug\Extract Emails.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Extract Emails\bin\Debug\Extract Emails.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Extract Emails\bin\Debug\Extract Emails.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Extract Emails\obj\Debug\Extract Emails.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Extract Emails\obj\Debug\Extract Emails.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Extract Emails\obj\Debug\Extract Emails.pdb

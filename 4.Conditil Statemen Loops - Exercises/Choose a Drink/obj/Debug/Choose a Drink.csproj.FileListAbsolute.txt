@@ -1,0 +1,2 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\Choose a Drink\bin\Debug\Choose a Drink.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Choose a Drink\bin\Debug\Choose a Drink.exe.config

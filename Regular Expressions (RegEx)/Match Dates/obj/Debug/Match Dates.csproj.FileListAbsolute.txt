@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Dates\bin\Debug\Match Dates.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Dates\bin\Debug\Match Dates.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Dates\bin\Debug\Match Dates.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Dates\obj\Debug\Match Dates.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Dates\obj\Debug\Match Dates.pdb

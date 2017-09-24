@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Multiplication Table 2.0\bin\Debug\Multiplication Table 2.0.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Multiplication Table 2.0\bin\Debug\Multiplication Table 2.0.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Multiplication Table 2.0\bin\Debug\Multiplication Table 2.0.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Multiplication Table 2.0\obj\Debug\Multiplication Table 2.0.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Multiplication Table 2.0\obj\Debug\Multiplication Table 2.0.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Multiplication Table 2.0\obj\Debug\Multiplication Table 2.0.pdb

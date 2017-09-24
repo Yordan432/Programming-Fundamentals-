@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Array Statistics\bin\Debug\Array Statistics.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Array Statistics\bin\Debug\Array Statistics.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Array Statistics\bin\Debug\Array Statistics.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Array Statistics\obj\Debug\Array Statistics.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Array Statistics\obj\Debug\Array Statistics.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Array Statistics\obj\Debug\Array Statistics.pdb

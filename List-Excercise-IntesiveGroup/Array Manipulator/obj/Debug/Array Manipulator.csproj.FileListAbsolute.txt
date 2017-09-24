@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Array Manipulator\bin\Debug\Array Manipulator.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Array Manipulator\bin\Debug\Array Manipulator.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Array Manipulator\bin\Debug\Array Manipulator.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Array Manipulator\obj\Debug\Array Manipulator.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Array Manipulator\obj\Debug\Array Manipulator.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Array Manipulator\obj\Debug\Array Manipulator.csprojResolveAssemblyReference.cache

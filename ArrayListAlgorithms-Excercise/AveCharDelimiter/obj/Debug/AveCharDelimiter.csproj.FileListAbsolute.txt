@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\AveCharDelimiter\bin\Debug\AveCharDelimiter.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\AveCharDelimiter\bin\Debug\AveCharDelimiter.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\AveCharDelimiter\bin\Debug\AveCharDelimiter.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\AveCharDelimiter\obj\Debug\AveCharDelimiter.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\AveCharDelimiter\obj\Debug\AveCharDelimiter.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\AveCharDelimiter\obj\Debug\AveCharDelimiter.csprojResolveAssemblyReference.cache

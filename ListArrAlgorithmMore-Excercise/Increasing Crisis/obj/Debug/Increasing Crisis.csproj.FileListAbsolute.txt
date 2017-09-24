@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Increasing Crisis\bin\Debug\Increasing Crisis.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Increasing Crisis\bin\Debug\Increasing Crisis.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Increasing Crisis\bin\Debug\Increasing Crisis.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Increasing Crisis\obj\Debug\Increasing Crisis.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Increasing Crisis\obj\Debug\Increasing Crisis.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Increasing Crisis\obj\Debug\Increasing Crisis.pdb

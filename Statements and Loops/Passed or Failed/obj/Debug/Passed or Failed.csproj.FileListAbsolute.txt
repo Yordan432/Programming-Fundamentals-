@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Passed or Failed\bin\Debug\Passed or Failed.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Passed or Failed\bin\Debug\Passed or Failed.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Passed or Failed\bin\Debug\Passed or Failed.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Passed or Failed\obj\Debug\Passed or Failed.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Passed or Failed\obj\Debug\Passed or Failed.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Passed or Failed\obj\Debug\Passed or Failed.pdb

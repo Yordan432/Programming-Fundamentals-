@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\SoftUni Beer Pong\bin\Debug\SoftUni Beer Pong.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\SoftUni Beer Pong\bin\Debug\SoftUni Beer Pong.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\SoftUni Beer Pong\bin\Debug\SoftUni Beer Pong.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\SoftUni Beer Pong\obj\Debug\SoftUni Beer Pong.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\SoftUni Beer Pong\obj\Debug\SoftUni Beer Pong.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\SoftUni Beer Pong\obj\Debug\SoftUni Beer Pong.pdb

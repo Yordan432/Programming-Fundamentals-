@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\Max Equal Elements\bin\Debug\Max Equal Elements.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\Max Equal Elements\bin\Debug\Max Equal Elements.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\Max Equal Elements\bin\Debug\Max Equal Elements.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\Max Equal Elements\obj\Debug\Max Equal Elements.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\Max Equal Elements\obj\Debug\Max Equal Elements.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\Max Equal Elements\obj\Debug\Max Equal Elements.pdb

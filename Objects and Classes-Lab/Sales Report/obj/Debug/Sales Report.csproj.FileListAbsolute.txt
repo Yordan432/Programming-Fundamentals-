@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Sales Report\bin\Debug\Sales Report.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Sales Report\bin\Debug\Sales Report.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Sales Report\bin\Debug\Sales Report.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Sales Report\obj\Debug\Sales Report.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Sales Report\obj\Debug\Sales Report.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Sales Report\obj\Debug\Sales Report.pdb

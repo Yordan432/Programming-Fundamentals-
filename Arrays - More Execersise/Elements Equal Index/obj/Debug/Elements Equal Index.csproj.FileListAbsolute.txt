@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays - More Execersise\Elements Equal Index\bin\Debug\Elements Equal Index.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays - More Execersise\Elements Equal Index\bin\Debug\Elements Equal Index.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays - More Execersise\Elements Equal Index\bin\Debug\Elements Equal Index.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays - More Execersise\Elements Equal Index\obj\Debug\Elements Equal Index.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays - More Execersise\Elements Equal Index\obj\Debug\Elements Equal Index.pdb

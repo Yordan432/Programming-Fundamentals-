@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Key Replacer\bin\Debug\Key Replacer.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Key Replacer\bin\Debug\Key Replacer.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Key Replacer\bin\Debug\Key Replacer.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Key Replacer\obj\Debug\Key Replacer.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Key Replacer\obj\Debug\Key Replacer.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions-Excercise\Key Replacer\obj\Debug\Key Replacer.pdb

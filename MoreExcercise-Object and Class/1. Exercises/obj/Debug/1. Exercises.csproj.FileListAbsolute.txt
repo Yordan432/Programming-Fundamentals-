@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\1. Exercises\bin\Debug\_1.Exercises.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\1. Exercises\bin\Debug\_1.Exercises.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\1. Exercises\bin\Debug\_1.Exercises.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\1. Exercises\obj\Debug\1. Exercises.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\1. Exercises\obj\Debug\_1.Exercises.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\1. Exercises\obj\Debug\_1.Exercises.pdb

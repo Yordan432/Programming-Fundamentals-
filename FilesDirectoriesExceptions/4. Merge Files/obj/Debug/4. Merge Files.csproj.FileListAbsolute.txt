@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\4. Merge Files\bin\Debug\_4.Merge_Files.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\4. Merge Files\bin\Debug\_4.Merge_Files.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\4. Merge Files\bin\Debug\_4.Merge_Files.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\4. Merge Files\obj\Debug\4. Merge Files.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\4. Merge Files\obj\Debug\_4.Merge_Files.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\4. Merge Files\obj\Debug\_4.Merge_Files.pdb

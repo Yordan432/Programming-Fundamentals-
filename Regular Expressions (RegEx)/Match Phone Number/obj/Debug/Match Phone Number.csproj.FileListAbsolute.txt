@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Phone Number\bin\Debug\Match Phone Number.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Phone Number\bin\Debug\Match Phone Number.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Phone Number\bin\Debug\Match Phone Number.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Phone Number\obj\Debug\Match Phone Number.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Phone Number\obj\Debug\Match Phone Number.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Phone Number\obj\Debug\Match Phone Number.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Count Working Days\bin\Debug\Count Working Days.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Count Working Days\bin\Debug\Count Working Days.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Count Working Days\bin\Debug\Count Working Days.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Count Working Days\obj\Debug\Count Working Days.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Count Working Days\obj\Debug\Count Working Days.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Count Working Days\obj\Debug\Count Working Days.pdb

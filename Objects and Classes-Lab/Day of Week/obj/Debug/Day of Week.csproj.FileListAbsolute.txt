@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Day of Week\bin\Debug\Day of Week.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Day of Week\bin\Debug\Day of Week.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Day of Week\bin\Debug\Day of Week.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Day of Week\obj\Debug\Day of Week.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Day of Week\obj\Debug\Day of Week.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Day of Week\obj\Debug\Day of Week.pdb

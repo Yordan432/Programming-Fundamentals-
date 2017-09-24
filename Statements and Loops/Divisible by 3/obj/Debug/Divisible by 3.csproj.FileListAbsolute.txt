@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Divisible by 3\bin\Debug\Divisible by 3.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Divisible by 3\bin\Debug\Divisible by 3.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Divisible by 3\bin\Debug\Divisible by 3.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Divisible by 3\obj\Debug\Divisible by 3.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Statements and Loops\Divisible by 3\obj\Debug\Divisible by 3.pdb

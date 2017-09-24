@@ -1,0 +1,12 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\Hotel\bin\Debug\Hotel.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\Hotel\bin\Debug\Hotel.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\Hotel\obj\Debug\Hotel.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\Hotel\obj\Debug\Hotel.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Hotel\bin\Debug\Hotel.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Hotel\obj\Debug\Hotel.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Hotel\obj\Debug\Hotel.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Hotel\bin\Debug\Hotel.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Hotel\bin\Debug\Hotel.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Hotel\obj\Debug\Hotel.csprojResolveAssemblyReference.cache

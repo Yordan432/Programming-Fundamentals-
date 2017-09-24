@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Exam Preparation I\Sino The Walker\bin\Debug\Sino The Walker.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Exam Preparation I\Sino The Walker\bin\Debug\Sino The Walker.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Exam Preparation I\Sino The Walker\bin\Debug\Sino The Walker.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Exam Preparation I\Sino The Walker\obj\Debug\Sino The Walker.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Exam Preparation I\Sino The Walker\obj\Debug\Sino The Walker.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Exam Preparation I\Sino The Walker\obj\Debug\Sino The Walker.pdb

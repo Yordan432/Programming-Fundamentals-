@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Theatre Promotions\bin\Debug\Theatre Promotions.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Theatre Promotions\bin\Debug\Theatre Promotions.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Theatre Promotions\bin\Debug\Theatre Promotions.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Theatre Promotions\obj\Debug\Theatre Promotions.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Theatre Promotions\obj\Debug\Theatre Promotions.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Theatre Promotions\obj\Debug\Theatre Promotions.csprojResolveAssemblyReference.cache

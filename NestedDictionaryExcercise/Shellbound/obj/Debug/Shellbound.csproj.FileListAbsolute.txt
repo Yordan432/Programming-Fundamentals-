@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Shellbound\bin\Debug\Shellbound.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Shellbound\bin\Debug\Shellbound.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Shellbound\bin\Debug\Shellbound.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Shellbound\obj\Debug\Shellbound.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Shellbound\obj\Debug\Shellbound.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Shellbound\obj\Debug\Shellbound.pdb

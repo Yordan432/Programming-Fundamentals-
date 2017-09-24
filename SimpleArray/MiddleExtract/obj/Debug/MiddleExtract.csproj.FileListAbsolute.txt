@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\MiddleExtract\bin\Debug\MiddleExtract.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\MiddleExtract\bin\Debug\MiddleExtract.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\MiddleExtract\bin\Debug\MiddleExtract.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\MiddleExtract\obj\Debug\MiddleExtract.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\MiddleExtract\obj\Debug\MiddleExtract.pdb

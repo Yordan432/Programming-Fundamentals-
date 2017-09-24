@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Reverse an Array of Integers\bin\Debug\Reverse an Array of Integers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Reverse an Array of Integers\bin\Debug\Reverse an Array of Integers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Reverse an Array of Integers\bin\Debug\Reverse an Array of Integers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Reverse an Array of Integers\obj\Debug\Reverse an Array of Integers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Reverse an Array of Integers\obj\Debug\Reverse an Array of Integers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Reverse an Array of Integers\obj\Debug\Reverse an Array of Integers.csprojResolveAssemblyReference.cache

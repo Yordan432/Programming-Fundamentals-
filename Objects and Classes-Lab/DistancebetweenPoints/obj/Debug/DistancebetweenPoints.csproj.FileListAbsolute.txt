@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\DistancebetweenPoints\bin\Debug\DistancebetweenPoints.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\DistancebetweenPoints\obj\Debug\DistancebetweenPoints.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\DistancebetweenPoints\bin\Debug\DistancebetweenPoints.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\DistancebetweenPoints\bin\Debug\DistancebetweenPoints.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\DistancebetweenPoints\obj\Debug\DistancebetweenPoints.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\DistancebetweenPoints\obj\Debug\DistancebetweenPoints.pdb

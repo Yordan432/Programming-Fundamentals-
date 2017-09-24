@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Back in 30 Minutes\bin\Debug\Back in 30 Minutes.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Back in 30 Minutes\obj\Debug\Back in 30 Minutes.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Back in 30 Minutes\obj\Debug\Back in 30 Minutes.pdb

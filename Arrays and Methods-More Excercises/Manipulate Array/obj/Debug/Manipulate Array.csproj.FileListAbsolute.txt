@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Manipulate Array\bin\Debug\Manipulate Array.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Manipulate Array\bin\Debug\Manipulate Array.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Manipulate Array\bin\Debug\Manipulate Array.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Manipulate Array\obj\Debug\Manipulate Array.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Manipulate Array\obj\Debug\Manipulate Array.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Manipulate Array\obj\Debug\Manipulate Array.csprojResolveAssemblyReference.cache

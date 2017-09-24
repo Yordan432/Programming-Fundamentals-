@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Full Name\bin\Debug\Match Full Name.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Full Name\bin\Debug\Match Full Name.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Full Name\bin\Debug\Match Full Name.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Full Name\obj\Debug\Match Full Name.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Full Name\obj\Debug\Match Full Name.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\Match Full Name\obj\Debug\Match Full Name.pdb

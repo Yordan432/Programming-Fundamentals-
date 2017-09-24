@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\01.Gretting\bin\Debug\01.Gretting.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\01.Gretting\bin\Debug\01.Gretting.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\01.Gretting\bin\Debug\01.Gretting.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\01.Gretting\obj\Debug\01.Gretting.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\01.Gretting\obj\Debug\01.Gretting.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\01.Gretting\obj\Debug\01.Gretting.pdb

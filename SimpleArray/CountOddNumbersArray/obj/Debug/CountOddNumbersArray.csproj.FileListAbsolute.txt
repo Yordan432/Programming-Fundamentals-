@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\CountOddNumbersArray\bin\Debug\CountOddNumbersArray.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\CountOddNumbersArray\bin\Debug\CountOddNumbersArray.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\CountOddNumbersArray\bin\Debug\CountOddNumbersArray.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\CountOddNumbersArray\obj\Debug\CountOddNumbersArray.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\CountOddNumbersArray\obj\Debug\CountOddNumbersArray.pdb

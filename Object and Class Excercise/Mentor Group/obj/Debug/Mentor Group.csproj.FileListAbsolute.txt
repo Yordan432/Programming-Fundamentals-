@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Mentor Group\bin\Debug\Mentor Group.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Mentor Group\bin\Debug\Mentor Group.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Mentor Group\bin\Debug\Mentor Group.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Mentor Group\obj\Debug\Mentor Group.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Mentor Group\obj\Debug\Mentor Group.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Mentor Group\obj\Debug\Mentor Group.pdb

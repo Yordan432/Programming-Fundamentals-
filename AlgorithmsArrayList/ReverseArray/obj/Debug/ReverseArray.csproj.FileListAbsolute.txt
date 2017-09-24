@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\ReverseArray\bin\Debug\ReverseArray.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\ReverseArray\bin\Debug\ReverseArray.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\ReverseArray\bin\Debug\ReverseArray.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\ReverseArray\obj\Debug\ReverseArray.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\ReverseArray\obj\Debug\ReverseArray.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\ReverseArray\obj\Debug\ReverseArray.csprojResolveAssemblyReference.cache

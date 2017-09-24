@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Filter Base\bin\Debug\Filter Base.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Filter Base\bin\Debug\Filter Base.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Filter Base\bin\Debug\Filter Base.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Filter Base\obj\Debug\Filter Base.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Filter Base\obj\Debug\Filter Base.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Filter Base\obj\Debug\Filter Base.pdb

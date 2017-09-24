@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\TriangleNumbers\bin\Debug\TriangleNumbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\TriangleNumbers\bin\Debug\TriangleNumbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\TriangleNumbers\bin\Debug\TriangleNumbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\TriangleNumbers\obj\Debug\TriangleNumbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditilStatemenLoopsExercises\TriangleNumbers\obj\Debug\TriangleNumbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\TriangleNumbers\bin\Debug\TriangleNumbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\TriangleNumbers\obj\Debug\TriangleNumbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\TriangleNumbers\obj\Debug\TriangleNumbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\TriangleNumbers\bin\Debug\TriangleNumbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\TriangleNumbers\bin\Debug\TriangleNumbers.pdb

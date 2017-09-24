@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\RemoveElementsOdd Positions\bin\Debug\RemoveElementsOdd Positions.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\RemoveElementsOdd Positions\bin\Debug\RemoveElementsOdd Positions.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\RemoveElementsOdd Positions\bin\Debug\RemoveElementsOdd Positions.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\RemoveElementsOdd Positions\obj\Debug\RemoveElementsOdd Positions.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\RemoveElementsOdd Positions\obj\Debug\RemoveElementsOdd Positions.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\RemoveElementsOdd Positions\obj\Debug\RemoveElementsOdd Positions.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\2.OptimiBankSystem\bin\Debug\2.OptimiBankSystem.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\2.OptimiBankSystem\bin\Debug\2.OptimiBankSystem.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\2.OptimiBankSystem\bin\Debug\2.OptimiBankSystem.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\2.OptimiBankSystem\obj\Debug\2.OptimiBankSystem.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\2.OptimiBankSystem\obj\Debug\2.OptimiBankSystem.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\2.OptimiBankSystem\obj\Debug\2.OptimiBankSystem.pdb

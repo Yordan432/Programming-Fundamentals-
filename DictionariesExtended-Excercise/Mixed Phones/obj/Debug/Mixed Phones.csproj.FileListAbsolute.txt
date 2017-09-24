@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Mixed Phones\bin\Debug\Mixed Phones.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Mixed Phones\bin\Debug\Mixed Phones.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Mixed Phones\bin\Debug\Mixed Phones.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Mixed Phones\obj\Debug\Mixed Phones.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Mixed Phones\obj\Debug\Mixed Phones.pdb

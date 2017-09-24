@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Vehicle Catalogue\bin\Debug\Vehicle Catalogue.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Vehicle Catalogue\bin\Debug\Vehicle Catalogue.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Vehicle Catalogue\bin\Debug\Vehicle Catalogue.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Vehicle Catalogue\obj\Debug\Vehicle Catalogue.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Vehicle Catalogue\obj\Debug\Vehicle Catalogue.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Vehicle Catalogue\obj\Debug\Vehicle Catalogue.csprojResolveAssemblyReference.cache

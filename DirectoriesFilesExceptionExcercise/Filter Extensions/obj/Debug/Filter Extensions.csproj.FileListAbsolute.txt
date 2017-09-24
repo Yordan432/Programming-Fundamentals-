@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DirectoriesFilesExceptionExcercise\Filter Extensions\bin\Debug\Filter Extensions.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DirectoriesFilesExceptionExcercise\Filter Extensions\bin\Debug\Filter Extensions.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DirectoriesFilesExceptionExcercise\Filter Extensions\bin\Debug\Filter Extensions.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DirectoriesFilesExceptionExcercise\Filter Extensions\obj\Debug\Filter Extensions.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DirectoriesFilesExceptionExcercise\Filter Extensions\obj\Debug\Filter Extensions.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DirectoriesFilesExceptionExcercise\Filter Extensions\obj\Debug\Filter Extensions.pdb

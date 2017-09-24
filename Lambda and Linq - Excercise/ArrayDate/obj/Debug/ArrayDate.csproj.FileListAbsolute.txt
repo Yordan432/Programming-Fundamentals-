@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Lambda and Linq - Excercise\ArrayDate\bin\Debug\ArrayDate.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Lambda and Linq - Excercise\ArrayDate\bin\Debug\ArrayDate.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Lambda and Linq - Excercise\ArrayDate\bin\Debug\ArrayDate.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Lambda and Linq - Excercise\ArrayDate\obj\Debug\ArrayDate.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Lambda and Linq - Excercise\ArrayDate\obj\Debug\ArrayDate.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Lambda and Linq - Excercise\ArrayDate\obj\Debug\ArrayDate.pdb

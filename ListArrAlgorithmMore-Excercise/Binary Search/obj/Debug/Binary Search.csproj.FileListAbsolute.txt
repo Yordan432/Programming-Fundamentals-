@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Binary Search\bin\Debug\Binary Search.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Binary Search\bin\Debug\Binary Search.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Binary Search\bin\Debug\Binary Search.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Binary Search\obj\Debug\Binary Search.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Binary Search\obj\Debug\Binary Search.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Binary Search\obj\Debug\Binary Search.csprojResolveAssemblyReference.cache

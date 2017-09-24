@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListMoreExersise\Ununion Lists\bin\Debug\Ununion Lists.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListMoreExersise\Ununion Lists\bin\Debug\Ununion Lists.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListMoreExersise\Ununion Lists\bin\Debug\Ununion Lists.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListMoreExersise\Ununion Lists\obj\Debug\Ununion Lists.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListMoreExersise\Ununion Lists\obj\Debug\Ununion Lists.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListMoreExersise\Ununion Lists\obj\Debug\Ununion Lists.csprojResolveAssemblyReference.cache

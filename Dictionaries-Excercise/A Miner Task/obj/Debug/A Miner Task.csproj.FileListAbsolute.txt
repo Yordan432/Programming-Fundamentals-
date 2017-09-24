@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\A Miner Task\bin\Debug\A Miner Task.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\A Miner Task\bin\Debug\A Miner Task.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\A Miner Task\bin\Debug\A Miner Task.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\A Miner Task\obj\Debug\A Miner Task.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\A Miner Task\obj\Debug\A Miner Task.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\A Miner Task\obj\Debug\A Miner Task.csprojResolveAssemblyReference.cache

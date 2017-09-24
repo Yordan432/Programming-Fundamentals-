@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Shopping Spree\bin\Debug\Shopping Spree.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Shopping Spree\bin\Debug\Shopping Spree.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Shopping Spree\bin\Debug\Shopping Spree.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Shopping Spree\obj\Debug\Shopping Spree.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Shopping Spree\obj\Debug\Shopping Spree.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Shopping Spree\obj\Debug\Shopping Spree.pdb

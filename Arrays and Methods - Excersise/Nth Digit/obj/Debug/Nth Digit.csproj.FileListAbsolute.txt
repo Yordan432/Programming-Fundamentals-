@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Nth Digit\bin\Debug\Nth Digit.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Nth Digit\bin\Debug\Nth Digit.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Nth Digit\bin\Debug\Nth Digit.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Nth Digit\obj\Debug\Nth Digit.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Nth Digit\obj\Debug\Nth Digit.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Nth Digit\obj\Debug\Nth Digit.csprojResolveAssemblyReference.cache

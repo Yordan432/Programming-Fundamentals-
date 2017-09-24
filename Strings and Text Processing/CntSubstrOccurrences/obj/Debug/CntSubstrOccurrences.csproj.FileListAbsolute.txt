@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Strings and Text Processing\CntSubstrOccurrences\bin\Debug\CntSubstrOccurrences.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Strings and Text Processing\CntSubstrOccurrences\bin\Debug\CntSubstrOccurrences.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Strings and Text Processing\CntSubstrOccurrences\bin\Debug\CntSubstrOccurrences.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Strings and Text Processing\CntSubstrOccurrences\obj\Debug\CntSubstrOccurrences.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Strings and Text Processing\CntSubstrOccurrences\obj\Debug\CntSubstrOccurrences.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Strings and Text Processing\CntSubstrOccurrences\obj\Debug\CntSubstrOccurrences.csprojResolveAssemblyReference.cache

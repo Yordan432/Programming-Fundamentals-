@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\CharacterMultiplier\bin\Debug\CharacterMultiplier.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\CharacterMultiplier\bin\Debug\CharacterMultiplier.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\CharacterMultiplier\obj\Debug\CharacterMultiplier.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\CharacterMultiplier\obj\Debug\CharacterMultiplier.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\CharacterMultiplier\obj\Debug\CharacterMultiplier.csprojResolveAssemblyReference.cache

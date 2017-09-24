@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Stuck Zipper\bin\Debug\Stuck Zipper.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Stuck Zipper\bin\Debug\Stuck Zipper.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Stuck Zipper\bin\Debug\Stuck Zipper.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Stuck Zipper\obj\Debug\Stuck Zipper.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Stuck Zipper\obj\Debug\Stuck Zipper.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListExcersise\Stuck Zipper\obj\Debug\Stuck Zipper.pdb

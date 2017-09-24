@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\NegativeElementArr\bin\Debug\NegativeElementArr.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\NegativeElementArr\bin\Debug\NegativeElementArr.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\NegativeElementArr\bin\Debug\NegativeElementArr.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\NegativeElementArr\obj\Debug\NegativeElementArr.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\NegativeElementArr\obj\Debug\NegativeElementArr.pdb

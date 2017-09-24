@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ExchangeableWords\bin\Debug\ExchangeableWords.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ExchangeableWords\bin\Debug\ExchangeableWords.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ExchangeableWords\bin\Debug\ExchangeableWords.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ExchangeableWords\obj\Debug\ExchangeableWords.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ExchangeableWords\obj\Debug\ExchangeableWords.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ExchangeableWords\obj\Debug\ExchangeableWords.pdb

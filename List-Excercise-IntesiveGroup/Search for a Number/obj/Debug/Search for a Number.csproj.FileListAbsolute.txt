@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Search for a Number\bin\Debug\Search for a Number.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Search for a Number\bin\Debug\Search for a Number.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Search for a Number\bin\Debug\Search for a Number.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Search for a Number\obj\Debug\Search for a Number.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Search for a Number\obj\Debug\Search for a Number.pdb

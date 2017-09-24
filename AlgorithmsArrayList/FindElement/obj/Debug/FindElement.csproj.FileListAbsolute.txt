@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\FindElement\bin\Debug\FindElement.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\FindElement\bin\Debug\FindElement.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\FindElement\bin\Debug\FindElement.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\FindElement\obj\Debug\FindElement.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\FindElement\obj\Debug\FindElement.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\FindElement\obj\Debug\FindElement.pdb

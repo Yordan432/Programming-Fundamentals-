@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Default Values\bin\Debug\Default Values.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Default Values\bin\Debug\Default Values.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Default Values\bin\Debug\Default Values.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Default Values\obj\Debug\Default Values.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Default Values\obj\Debug\Default Values.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Default Values\obj\Debug\Default Values.csprojResolveAssemblyReference.cache

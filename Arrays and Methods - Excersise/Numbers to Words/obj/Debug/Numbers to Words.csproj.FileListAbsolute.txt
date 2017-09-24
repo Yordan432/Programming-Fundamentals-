@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Numbers to Words\bin\Debug\Numbers to Words.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Numbers to Words\bin\Debug\Numbers to Words.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Numbers to Words\bin\Debug\Numbers to Words.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Numbers to Words\obj\Debug\Numbers to Words.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Numbers to Words\obj\Debug\Numbers to Words.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods - Excersise\Numbers to Words\obj\Debug\Numbers to Words.pdb

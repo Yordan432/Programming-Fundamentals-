@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\User Logins\bin\Debug\User Logins.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\User Logins\bin\Debug\User Logins.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\User Logins\bin\Debug\User Logins.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\User Logins\obj\Debug\User Logins.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\User Logins\obj\Debug\User Logins.pdb

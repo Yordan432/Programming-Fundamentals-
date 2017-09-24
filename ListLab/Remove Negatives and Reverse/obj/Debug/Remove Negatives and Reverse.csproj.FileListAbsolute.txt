@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Remove Negatives and Reverse\bin\Debug\Remove Negatives and Reverse.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Remove Negatives and Reverse\bin\Debug\Remove Negatives and Reverse.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Remove Negatives and Reverse\bin\Debug\Remove Negatives and Reverse.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Remove Negatives and Reverse\obj\Debug\Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Remove Negatives and Reverse\obj\Debug\Remove Negatives and Reverse.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Remove Negatives and Reverse\obj\Debug\Remove Negatives and Reverse.pdb

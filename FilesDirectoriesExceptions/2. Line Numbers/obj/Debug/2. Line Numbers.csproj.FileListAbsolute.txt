@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\2. Line Numbers\bin\Debug\_2.Line_Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\2. Line Numbers\bin\Debug\_2.Line_Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\2. Line Numbers\bin\Debug\_2.Line_Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\2. Line Numbers\obj\Debug\_2.Line_Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\2. Line Numbers\obj\Debug\_2.Line_Numbers.pdb

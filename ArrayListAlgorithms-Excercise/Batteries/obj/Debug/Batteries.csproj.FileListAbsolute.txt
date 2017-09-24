@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Batteries\bin\Debug\Batteries.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Batteries\bin\Debug\Batteries.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Batteries\bin\Debug\Batteries.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Batteries\obj\Debug\Batteries.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Batteries\obj\Debug\Batteries.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Batteries\obj\Debug\Batteries.csprojResolveAssemblyReference.cache

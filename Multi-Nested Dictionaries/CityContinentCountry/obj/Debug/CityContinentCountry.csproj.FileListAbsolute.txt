@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\CityContinentCountry\bin\Debug\CityContinentCountry.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\CityContinentCountry\bin\Debug\CityContinentCountry.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\CityContinentCountry\bin\Debug\CityContinentCountry.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\CityContinentCountry\obj\Debug\CityContinentCountry.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\CityContinentCountry\obj\Debug\CityContinentCountry.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\CityContinentCountry\obj\Debug\CityContinentCountry.pdb

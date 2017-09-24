@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Order by Age\bin\Debug\Order by Age.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Order by Age\bin\Debug\Order by Age.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Order by Age\bin\Debug\Order by Age.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Order by Age\obj\Debug\Order by Age.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Order by Age\obj\Debug\Order by Age.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesClassesFileExceptions\Order by Age\obj\Debug\Order by Age.pdb

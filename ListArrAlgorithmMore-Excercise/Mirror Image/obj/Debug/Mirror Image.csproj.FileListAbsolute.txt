@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Mirror Image\bin\Debug\Mirror Image.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Mirror Image\bin\Debug\Mirror Image.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Mirror Image\bin\Debug\Mirror Image.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Mirror Image\obj\Debug\Mirror Image.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListArrAlgorithmMore-Excercise\Mirror Image\obj\Debug\Mirror Image.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroAndBasicSyntaxExercises\BeverageLabels\bin\Debug\BeverageLabels.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroAndBasicSyntaxExercises\BeverageLabels\bin\Debug\BeverageLabels.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroAndBasicSyntaxExercises\BeverageLabels\bin\Debug\BeverageLabels.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroAndBasicSyntaxExercises\BeverageLabels\obj\Debug\BeverageLabels.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroAndBasicSyntaxExercises\BeverageLabels\obj\Debug\BeverageLabels.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroAndBasicSyntaxExercises\BeverageLabels\obj\Debug\BeverageLabels.pdb

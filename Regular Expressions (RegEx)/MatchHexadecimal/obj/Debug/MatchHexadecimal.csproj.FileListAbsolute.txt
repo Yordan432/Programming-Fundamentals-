@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\MatchHexadecimal\bin\Debug\MatchHexadecimal.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\MatchHexadecimal\bin\Debug\MatchHexadecimal.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\MatchHexadecimal\bin\Debug\MatchHexadecimal.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\MatchHexadecimal\obj\Debug\MatchHexadecimal.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\MatchHexadecimal\obj\Debug\MatchHexadecimal.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Regular Expressions (RegEx)\MatchHexadecimal\obj\Debug\MatchHexadecimal.pdb

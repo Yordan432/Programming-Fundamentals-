@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\AverageStudentGrades\bin\Debug\AverageStudentGrades.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\AverageStudentGrades\bin\Debug\AverageStudentGrades.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\AverageStudentGrades\bin\Debug\AverageStudentGrades.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\AverageStudentGrades\obj\Debug\AverageStudentGrades.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\AverageStudentGrades\obj\Debug\AverageStudentGrades.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Multi-Nested Dictionaries\AverageStudentGrades\obj\Debug\AverageStudentGrades.pdb

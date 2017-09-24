@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\SortArrayBubbleAlgorithm\bin\Debug\SortArrayBubbleAlgorithm.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\SortArrayBubbleAlgorithm\bin\Debug\SortArrayBubbleAlgorithm.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\SortArrayBubbleAlgorithm\bin\Debug\SortArrayBubbleAlgorithm.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\SortArrayBubbleAlgorithm\obj\Debug\SortArrayBubbleAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\SortArrayBubbleAlgorithm\obj\Debug\SortArrayBubbleAlgorithm.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\AlgorithmsArrayList\SortArrayBubbleAlgorithm\obj\Debug\SortArrayBubbleAlgorithm.pdb

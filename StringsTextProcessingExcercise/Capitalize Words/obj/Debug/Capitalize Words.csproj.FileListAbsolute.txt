@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StringsTextProcessingExcercise\Capitalize Words\bin\Debug\Capitalize Words.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StringsTextProcessingExcercise\Capitalize Words\bin\Debug\Capitalize Words.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StringsTextProcessingExcercise\Capitalize Words\bin\Debug\Capitalize Words.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StringsTextProcessingExcercise\Capitalize Words\obj\Debug\Capitalize Words.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StringsTextProcessingExcercise\Capitalize Words\obj\Debug\Capitalize Words.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StringsTextProcessingExcercise\Capitalize Words\obj\Debug\Capitalize Words.pdb

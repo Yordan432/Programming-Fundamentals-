@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Registered Users\bin\Debug\Registered Users.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Registered Users\bin\Debug\Registered Users.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Registered Users\bin\Debug\Registered Users.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Registered Users\obj\Debug\Registered Users.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Registered Users\obj\Debug\Registered Users.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\LINQ and LAMBDA\Registered Users\obj\Debug\Registered Users.pdb

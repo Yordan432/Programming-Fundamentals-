@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Megapixels\bin\Debug\Megapixels.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Megapixels\bin\Debug\Megapixels.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Megapixels\bin\Debug\Megapixels.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Megapixels\obj\Debug\Megapixels.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Megapixels\obj\Debug\Megapixels.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Megapixels\obj\Debug\Megapixels.pdb

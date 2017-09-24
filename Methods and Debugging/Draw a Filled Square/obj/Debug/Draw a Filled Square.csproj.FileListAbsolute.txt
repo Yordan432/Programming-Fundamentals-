@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Draw a Filled Square\bin\Debug\Draw a Filled Square.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Draw a Filled Square\bin\Debug\Draw a Filled Square.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Draw a Filled Square\obj\Debug\Draw a Filled Square.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Draw a Filled Square\obj\Debug\Draw a Filled Square.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Draw a Filled Square\obj\Debug\Draw a Filled Square.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\IcrementsElementSequence\bin\Debug\IcrementsElementSequence.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\IcrementsElementSequence\bin\Debug\IcrementsElementSequence.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\IcrementsElementSequence\bin\Debug\IcrementsElementSequence.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\IcrementsElementSequence\obj\Debug\IcrementsElementSequence.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\IcrementsElementSequence\obj\Debug\IcrementsElementSequence.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Array-Excercise\IcrementsElementSequence\obj\Debug\IcrementsElementSequence.csprojResolveAssemblyReference.cache

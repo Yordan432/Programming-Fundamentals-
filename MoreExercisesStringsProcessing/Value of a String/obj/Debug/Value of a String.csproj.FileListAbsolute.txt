@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Value of a String\bin\Debug\Value of a String.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Value of a String\bin\Debug\Value of a String.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Value of a String\bin\Debug\Value of a String.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Value of a String\obj\Debug\Value of a String.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Value of a String\obj\Debug\Value of a String.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Value of a String\obj\Debug\Value of a String.pdb

@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries\Largest 3 Numbers\obj\Debug\Largest 3 Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries\Largest 3 Numbers\obj\Debug\Largest 3 Numbers.pdb

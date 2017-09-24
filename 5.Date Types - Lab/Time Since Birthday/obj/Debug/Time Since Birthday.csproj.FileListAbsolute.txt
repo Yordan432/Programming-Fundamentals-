@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Time Since Birthday\bin\Debug\Time Since Birthday.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Time Since Birthday\bin\Debug\Time Since Birthday.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Time Since Birthday\bin\Debug\Time Since Birthday.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Time Since Birthday\obj\Debug\Time Since Birthday.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Time Since Birthday\obj\Debug\Time Since Birthday.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Time Since Birthday\obj\Debug\Time Since Birthday.pdb

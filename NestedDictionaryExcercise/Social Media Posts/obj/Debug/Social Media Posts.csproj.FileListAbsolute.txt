@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Social Media Posts\bin\Debug\Social Media Posts.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Social Media Posts\bin\Debug\Social Media Posts.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Social Media Posts\bin\Debug\Social Media Posts.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Social Media Posts\obj\Debug\Social Media Posts.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Social Media Posts\obj\Debug\Social Media Posts.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Social Media Posts\obj\Debug\Social Media Posts.pdb

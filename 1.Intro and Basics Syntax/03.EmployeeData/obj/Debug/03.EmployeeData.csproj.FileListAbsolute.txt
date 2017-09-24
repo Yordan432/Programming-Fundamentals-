@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\03.EmployeeData\bin\Debug\03.EmployeeData.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\03.EmployeeData\bin\Debug\03.EmployeeData.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\03.EmployeeData\bin\Debug\03.EmployeeData.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\03.EmployeeData\obj\Debug\03.EmployeeData.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\03.EmployeeData\obj\Debug\03.EmployeeData.pdb

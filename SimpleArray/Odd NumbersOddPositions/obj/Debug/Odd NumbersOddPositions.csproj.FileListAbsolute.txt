@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Odd NumbersOddPositions\bin\Debug\Odd NumbersOddPositions.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Odd NumbersOddPositions\bin\Debug\Odd NumbersOddPositions.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Odd NumbersOddPositions\bin\Debug\Odd NumbersOddPositions.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Odd NumbersOddPositions\obj\Debug\Odd NumbersOddPositions.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Odd NumbersOddPositions\obj\Debug\Odd NumbersOddPositions.pdb

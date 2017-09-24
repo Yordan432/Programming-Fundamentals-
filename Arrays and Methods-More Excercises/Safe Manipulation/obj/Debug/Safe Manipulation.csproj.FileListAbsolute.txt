@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Safe Manipulation\bin\Debug\Safe Manipulation.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Safe Manipulation\bin\Debug\Safe Manipulation.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Safe Manipulation\bin\Debug\Safe Manipulation.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Safe Manipulation\obj\Debug\Safe Manipulation.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Safe Manipulation\obj\Debug\Safe Manipulation.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Safe Manipulation\obj\Debug\Safe Manipulation.csprojResolveAssemblyReference.cache

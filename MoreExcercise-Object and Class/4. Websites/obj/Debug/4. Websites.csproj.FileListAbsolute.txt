@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\4. Websites\bin\Debug\_4.Websites.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\4. Websites\bin\Debug\_4.Websites.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\4. Websites\bin\Debug\_4.Websites.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\4. Websites\obj\Debug\_4.Websites.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\4. Websites\obj\Debug\_4.Websites.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExcercise-Object and Class\4. Websites\obj\Debug\4. Websites.csprojResolveAssemblyReference.cache

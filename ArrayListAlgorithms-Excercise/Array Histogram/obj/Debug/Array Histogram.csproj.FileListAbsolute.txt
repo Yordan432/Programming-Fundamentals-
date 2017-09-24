@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Array Histogram\bin\Debug\Array Histogram.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Array Histogram\bin\Debug\Array Histogram.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Array Histogram\bin\Debug\Array Histogram.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Array Histogram\obj\Debug\Array Histogram.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Array Histogram\obj\Debug\Array Histogram.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\Array Histogram\obj\Debug\Array Histogram.csprojResolveAssemblyReference.cache

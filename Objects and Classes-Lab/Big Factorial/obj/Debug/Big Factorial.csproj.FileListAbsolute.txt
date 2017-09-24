@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Big Factorial\bin\Debug\Big Factorial.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Big Factorial\bin\Debug\Big Factorial.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Big Factorial\bin\Debug\Big Factorial.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Big Factorial\obj\Debug\Big Factorial.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Big Factorial\obj\Debug\Big Factorial.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Big Factorial\obj\Debug\Big Factorial.pdb

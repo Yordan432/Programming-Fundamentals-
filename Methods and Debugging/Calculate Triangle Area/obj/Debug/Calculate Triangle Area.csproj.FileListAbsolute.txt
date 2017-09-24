@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Calculate Triangle Area\bin\Debug\Calculate Triangle Area.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Calculate Triangle Area\obj\Debug\Calculate Triangle Area.pdb

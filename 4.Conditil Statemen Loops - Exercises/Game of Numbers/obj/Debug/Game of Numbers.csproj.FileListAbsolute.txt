@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Game of Numbers\bin\Debug\Game of Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Game of Numbers\bin\Debug\Game of Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Game of Numbers\bin\Debug\Game of Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Game of Numbers\obj\Debug\Game of Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\4.Conditil Statemen Loops - Exercises\Game of Numbers\obj\Debug\Game of Numbers.pdb

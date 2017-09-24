@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Andrey and Billiard\bin\Debug\Andrey and Billiard.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Andrey and Billiard\bin\Debug\Andrey and Billiard.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Andrey and Billiard\bin\Debug\Andrey and Billiard.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Andrey and Billiard\obj\Debug\Andrey and Billiard.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Andrey and Billiard\obj\Debug\Andrey and Billiard.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Object and Class Excercise\Andrey and Billiard\obj\Debug\Andrey and Billiard.csprojResolveAssemblyReference.cache

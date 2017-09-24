@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Multiplication Table\bin\Debug\Multiplication Table.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Multiplication Table\bin\Debug\Multiplication Table.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Multiplication Table\bin\Debug\Multiplication Table.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Multiplication Table\obj\Debug\Multiplication Table.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ConditionalStatementsLoops\Multiplication Table\obj\Debug\Multiplication Table.pdb

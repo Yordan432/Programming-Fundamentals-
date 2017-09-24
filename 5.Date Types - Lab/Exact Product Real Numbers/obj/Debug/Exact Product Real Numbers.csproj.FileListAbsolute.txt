@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Exact Product Real Numbers\bin\Debug\Exact Product Real Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Exact Product Real Numbers\bin\Debug\Exact Product Real Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Exact Product Real Numbers\bin\Debug\Exact Product Real Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Exact Product Real Numbers\obj\Debug\Exact Product Real Numbers.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Exact Product Real Numbers\obj\Debug\Exact Product Real Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Exact Product Real Numbers\obj\Debug\Exact Product Real Numbers.pdb

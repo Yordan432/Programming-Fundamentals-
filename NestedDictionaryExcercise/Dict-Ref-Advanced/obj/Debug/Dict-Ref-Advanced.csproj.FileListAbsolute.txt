@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Dict-Ref-Advanced\bin\Debug\Dict-Ref-Advanced.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Dict-Ref-Advanced\obj\Debug\Dict-Ref-Advanced.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Dict-Ref-Advanced\obj\Debug\Dict-Ref-Advanced.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\NestedDictionaryExcercise\Dict-Ref-Advanced\obj\Debug\Dict-Ref-Advanced.pdb

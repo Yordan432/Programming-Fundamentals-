@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Pizza Ingredients\bin\Debug\Pizza Ingredients.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Pizza Ingredients\bin\Debug\Pizza Ingredients.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Pizza Ingredients\bin\Debug\Pizza Ingredients.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Pizza Ingredients\obj\Debug\Pizza Ingredients.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Arrays and Methods-More Excercises\Pizza Ingredients\obj\Debug\Pizza Ingredients.pdb

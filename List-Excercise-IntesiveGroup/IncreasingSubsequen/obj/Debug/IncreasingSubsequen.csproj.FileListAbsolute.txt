@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\IncreasingSubsequen\bin\Debug\IncreasingSubsequen.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\IncreasingSubsequen\bin\Debug\IncreasingSubsequen.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\IncreasingSubsequen\bin\Debug\IncreasingSubsequen.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\IncreasingSubsequen\obj\Debug\IncreasingSubsequen.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\IncreasingSubsequen\obj\Debug\IncreasingSubsequen.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\IncreasingSubsequen\obj\Debug\IncreasingSubsequen.csprojResolveAssemblyReference.cache

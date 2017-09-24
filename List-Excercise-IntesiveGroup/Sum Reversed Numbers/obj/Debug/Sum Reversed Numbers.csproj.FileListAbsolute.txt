@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Sum Reversed Numbers\bin\Debug\Sum Reversed Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\List-Excercise-IntesiveGroup\Sum Reversed Numbers\obj\Debug\Sum Reversed Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Dict-Ref\bin\Debug\Dict-Ref.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Dict-Ref\bin\Debug\Dict-Ref.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Dict-Ref\bin\Debug\Dict-Ref.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Dict-Ref\obj\Debug\Dict-Ref.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Dict-Ref\obj\Debug\Dict-Ref.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DictionariesExtended-Excercise\Dict-Ref\obj\Debug\Dict-Ref.csprojResolveAssemblyReference.cache

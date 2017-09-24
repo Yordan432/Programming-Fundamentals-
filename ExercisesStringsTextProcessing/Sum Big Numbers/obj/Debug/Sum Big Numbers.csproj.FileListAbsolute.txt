@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\Sum Big Numbers\bin\Debug\Sum Big Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\Sum Big Numbers\bin\Debug\Sum Big Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\Sum Big Numbers\bin\Debug\Sum Big Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\Sum Big Numbers\obj\Debug\Sum Big Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\Sum Big Numbers\obj\Debug\Sum Big Numbers.pdb

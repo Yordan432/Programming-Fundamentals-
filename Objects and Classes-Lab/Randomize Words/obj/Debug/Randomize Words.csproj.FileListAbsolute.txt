@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Randomize Words\bin\Debug\Randomize Words.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Randomize Words\bin\Debug\Randomize Words.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Randomize Words\bin\Debug\Randomize Words.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Randomize Words\obj\Debug\Randomize Words.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Randomize Words\obj\Debug\Randomize Words.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Objects and Classes-Lab\Randomize Words\obj\Debug\Randomize Words.pdb

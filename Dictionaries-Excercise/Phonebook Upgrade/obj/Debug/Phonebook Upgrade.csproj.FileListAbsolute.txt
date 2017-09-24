@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\Phonebook Upgrade\bin\Debug\Phonebook Upgrade.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries-Excercise\Phonebook Upgrade\obj\Debug\Phonebook Upgrade.pdb

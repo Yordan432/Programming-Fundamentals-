@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Sum Adjacent Equal Numbers\bin\Debug\Sum Adjacent Equal Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ListLab\Sum Adjacent Equal Numbers\obj\Debug\Sum Adjacent Equal Numbers.pdb

@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ConvertBase10BaseN\bin\Debug\ConvertBase10BaseN.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ConvertBase10BaseN\bin\Debug\ConvertBase10BaseN.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ConvertBase10BaseN\bin\Debug\ConvertBase10BaseN.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ConvertBase10BaseN\obj\Debug\ConvertBase10BaseN.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ConvertBase10BaseN\obj\Debug\ConvertBase10BaseN.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ExercisesStringsTextProcessing\ConvertBase10BaseN\obj\Debug\ConvertBase10BaseN.pdb

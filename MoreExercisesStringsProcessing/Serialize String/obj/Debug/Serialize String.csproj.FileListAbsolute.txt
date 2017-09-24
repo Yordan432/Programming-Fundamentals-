@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Serialize String\bin\Debug\Serialize String.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Serialize String\bin\Debug\Serialize String.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Serialize String\bin\Debug\Serialize String.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Serialize String\obj\Debug\Serialize String.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\MoreExercisesStringsProcessing\Serialize String\obj\Debug\Serialize String.pdb

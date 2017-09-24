@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Rounding Numbers AwayZero\bin\Debug\Rounding Numbers AwayZero.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Rounding Numbers AwayZero\bin\Debug\Rounding Numbers AwayZero.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Rounding Numbers AwayZero\bin\Debug\Rounding Numbers AwayZero.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Rounding Numbers AwayZero\obj\Debug\Rounding Numbers AwayZero.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Rounding Numbers AwayZero\obj\Debug\Rounding Numbers AwayZero.pdb

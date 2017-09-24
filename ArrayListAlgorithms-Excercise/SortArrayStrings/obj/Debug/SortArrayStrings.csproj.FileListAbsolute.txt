@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\SortArrayStrings\bin\Debug\SortArrayStrings.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\SortArrayStrings\bin\Debug\SortArrayStrings.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\SortArrayStrings\bin\Debug\SortArrayStrings.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\SortArrayStrings\obj\Debug\SortArrayStrings.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\SortArrayStrings\obj\Debug\SortArrayStrings.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\ArrayListAlgorithms-Excercise\SortArrayStrings\obj\Debug\SortArrayStrings.pdb

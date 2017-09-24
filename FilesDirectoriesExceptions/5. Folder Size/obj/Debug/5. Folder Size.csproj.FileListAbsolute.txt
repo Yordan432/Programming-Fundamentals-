@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\5. Folder Size\bin\Debug\_5.Folder_Size.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\5. Folder Size\bin\Debug\_5.Folder_Size.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\5. Folder Size\bin\Debug\_5.Folder_Size.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\5. Folder Size\obj\Debug\_5.Folder_Size.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\5. Folder Size\obj\Debug\_5.Folder_Size.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\5. Folder Size\obj\Debug\5. Folder Size.csprojResolveAssemblyReference.cache

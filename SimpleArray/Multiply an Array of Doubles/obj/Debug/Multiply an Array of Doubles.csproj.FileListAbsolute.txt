@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Multiply an Array of Doubles\bin\Debug\Multiply an Array of Doubles.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Multiply an Array of Doubles\bin\Debug\Multiply an Array of Doubles.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Multiply an Array of Doubles\bin\Debug\Multiply an Array of Doubles.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Multiply an Array of Doubles\obj\Debug\Multiply an Array of Doubles.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\SimpleArray\Multiply an Array of Doubles\obj\Debug\Multiply an Array of Doubles.pdb

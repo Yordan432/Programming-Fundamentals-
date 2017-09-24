@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\3. Word Count\bin\Debug\_3.Word_Count.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\3. Word Count\bin\Debug\_3.Word_Count.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\3. Word Count\bin\Debug\_3.Word_Count.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\3. Word Count\obj\Debug\3. Word Count.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\3. Word Count\obj\Debug\_3.Word_Count.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\FilesDirectoriesExceptions\3. Word Count\obj\Debug\_3.Word_Count.pdb

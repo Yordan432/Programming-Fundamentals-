@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\02.AddTwoNumbers\bin\Debug\02.AddTwoNumbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\02.AddTwoNumbers\bin\Debug\02.AddTwoNumbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\02.AddTwoNumbers\bin\Debug\02.AddTwoNumbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\02.AddTwoNumbers\obj\Debug\02.AddTwoNumbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\IntroandBasicSyntax\02.AddTwoNumbers\obj\Debug\02.AddTwoNumbers.pdb
