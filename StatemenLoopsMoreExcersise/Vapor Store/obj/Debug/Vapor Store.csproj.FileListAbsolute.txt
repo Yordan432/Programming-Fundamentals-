@@ -1,6 +1,0 @@
-C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Vapor Store\bin\Debug\Vapor Store.exe.config
-C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Vapor Store\bin\Debug\Vapor Store.exe
-C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Vapor Store\bin\Debug\Vapor Store.pdb
-C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Vapor Store\obj\Debug\Vapor Store.exe
-C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Vapor Store\obj\Debug\Vapor Store.pdb
-C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\StatemenLoopsMoreExcersise\Vapor Store\obj\Debug\Vapor Store.csprojResolveAssemblyReference.cache
