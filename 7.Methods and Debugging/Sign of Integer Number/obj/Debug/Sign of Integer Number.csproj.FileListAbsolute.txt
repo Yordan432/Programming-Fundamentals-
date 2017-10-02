@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Sign of Integer Number\bin\Debug\Sign of Integer Number.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Sign of Integer Number\bin\Debug\Sign of Integer Number.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Sign of Integer Number\bin\Debug\Sign of Integer Number.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Sign of Integer Number\obj\Debug\Sign of Integer Number.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Sign of Integer Number\obj\Debug\Sign of Integer Number.pdb

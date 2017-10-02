@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Greater of Two Values\bin\Debug\Greater of Two Values.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Greater of Two Values\bin\Debug\Greater of Two Values.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Greater of Two Values\bin\Debug\Greater of Two Values.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Greater of Two Values\obj\Debug\Greater of Two Values.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Greater of Two Values\obj\Debug\Greater of Two Values.pdb

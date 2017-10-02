@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Printing Triangle\bin\Debug\Printing Triangle.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Printing Triangle\bin\Debug\Printing Triangle.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Printing Triangle\bin\Debug\Printing Triangle.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Printing Triangle\obj\Debug\Printing Triangle.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Methods and Debugging\Printing Triangle\obj\Debug\Printing Triangle.pdb
