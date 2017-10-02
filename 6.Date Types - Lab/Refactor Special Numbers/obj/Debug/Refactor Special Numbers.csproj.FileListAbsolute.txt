@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Refactor Special Numbers\bin\Debug\Refactor Special Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Refactor Special Numbers\bin\Debug\Refactor Special Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Refactor Special Numbers\bin\Debug\Refactor Special Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Refactor Special Numbers\obj\Debug\Refactor Special Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateTypeLab\Refactor Special Numbers\obj\Debug\Refactor Special Numbers.pdb
