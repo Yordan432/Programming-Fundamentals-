@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\From Terabytes to Bits\bin\Debug\From Terabytes to Bits.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\From Terabytes to Bits\bin\Debug\From Terabytes to Bits.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\From Terabytes to Bits\bin\Debug\From Terabytes to Bits.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\From Terabytes to Bits\obj\Debug\From Terabytes to Bits.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\From Terabytes to Bits\obj\Debug\From Terabytes to Bits.pdb

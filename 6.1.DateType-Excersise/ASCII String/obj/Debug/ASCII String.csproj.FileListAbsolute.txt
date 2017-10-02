@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\ASCII String\bin\Debug\ASCII String.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\ASCII String\bin\Debug\ASCII String.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\ASCII String\bin\Debug\ASCII String.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\ASCII String\obj\Debug\ASCII String.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\ASCII String\obj\Debug\ASCII String.pdb

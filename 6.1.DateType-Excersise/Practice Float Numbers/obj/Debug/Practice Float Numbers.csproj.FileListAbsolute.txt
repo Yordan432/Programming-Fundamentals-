@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Float Numbers\bin\Debug\Practice Float Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Float Numbers\bin\Debug\Practice Float Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Float Numbers\bin\Debug\Practice Float Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Float Numbers\obj\Debug\Practice Float Numbers.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Float Numbers\obj\Debug\Practice Float Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Float Numbers\obj\Debug\Practice Float Numbers.pdb

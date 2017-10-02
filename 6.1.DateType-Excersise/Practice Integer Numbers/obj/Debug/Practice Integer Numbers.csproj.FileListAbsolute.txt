@@ -1,0 +1,6 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Integer Numbers\bin\Debug\Practice Integer Numbers.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Integer Numbers\bin\Debug\Practice Integer Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Integer Numbers\bin\Debug\Practice Integer Numbers.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Integer Numbers\obj\Debug\Practice Integer Numbers.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Integer Numbers\obj\Debug\Practice Integer Numbers.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Practice Integer Numbers\obj\Debug\Practice Integer Numbers.pdb

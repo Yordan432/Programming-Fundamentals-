@@ -1,0 +1,5 @@
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Increment Variable\bin\Debug\Increment Variable.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Increment Variable\bin\Debug\Increment Variable.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Increment Variable\bin\Debug\Increment Variable.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Increment Variable\obj\Debug\Increment Variable.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\DateType-Excersise\Increment Variable\obj\Debug\Increment Variable.pdb
