@@ -5,21 +5,25 @@ class CountRealNumbers
 {
     static void Main()
     {
-        SortedDictionary<double, int> dictionary = new SortedDictionary<double, int>();
-        List<double> numbers = Console.ReadLine().Split(' ').Select(double.Parse).ToList();
+        var numbers = Console.ReadLine().Split(' ').Select(double.Parse).ToList();
 
+        SortedDictionary<double, int> countNumbers = new SortedDictionary<double, int>();
+
+        int count = 0;
         for (int i = 0; i < numbers.Count; i++)
         {
-            if (!dictionary.ContainsKey(numbers[i]))
+            if (!countNumbers.ContainsKey(numbers[i]))
             {
-                dictionary.Add(numbers[i], 0);
+                countNumbers.Add(numbers[i], count);
             }
-            dictionary[numbers[i]]++;
+            countNumbers[numbers[i]]++;
         }
-        foreach (var item in dictionary)
+
+        foreach (var countNumber in countNumbers)
         {
-            Console.WriteLine($"{item.Key} -> {item.Value}");
-        };
+            Console.Write(countNumber.Key + " -> ");
+            Console.WriteLine(countNumber.Value);
+        }
     }
 }
 

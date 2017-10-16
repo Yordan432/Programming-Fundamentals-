@@ -4,3 +4,9 @@ C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017
 C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries\DemoLive\bin\Debug\DemoLive.exe
 C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries\DemoLive\bin\Debug\DemoLive.pdb
 C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals-May(2017)\Dictionaries\DemoLive\obj\Debug\CountRealNumbers.csprojResolveAssemblyReference.cache
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals(2017)\Dictionaries\DemoLive\bin\Debug\DemoLive.exe.config
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals(2017)\Dictionaries\DemoLive\obj\Debug\DemoLive.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals(2017)\Dictionaries\DemoLive\obj\Debug\DemoLive.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals(2017)\Dictionaries\DemoLive\bin\Debug\DemoLive.exe
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals(2017)\Dictionaries\DemoLive\bin\Debug\DemoLive.pdb
+C:\Users\DELL\Documents\СофтУни\Tech Module\Programming Fundamentals 2017\ProgrammingFundamentals(2017)\Dictionaries\DemoLive\obj\Debug\CountRealNumbers.csprojResolveAssemblyReference.cache

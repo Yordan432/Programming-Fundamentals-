@@ -5,22 +5,22 @@ class FoldandSum
 {
     static void Main()
     {
-        int[] numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToArray();
+        var numbers = Console.ReadLine().Split(' ').Select(int.Parse).ToList();
 
-        var k = numbers.Length / 4;
+        int k = numbers.Count / 4;
+        var firstKElements = numbers.Take(k).Reverse().ToList();
+        var lastKElements = numbers.Skip(numbers.Count - k).Reverse();
+        firstKElements = firstKElements.Concat(lastKElements).ToList();
 
-        var firstLeftPart = numbers.First(e => e == k);
 
-        var nums = numbers.Skip(k * 3).Reverse().ToList();
-        nums = new List<int>(numbers.Take(k).Reverse().ToList().Concat(nums));
-        numbers = numbers.Skip(k).Take(k * 2).ToArray();
+        var middlePart = numbers.Skip(k).Take(k * 2).ToList();
 
-        var result = new List<int>();
-        for (int i = 0; i < k * 2; i++)
+        var sum = new List<int>();
+        for (int i = 0; i < firstKElements.Count; i++)
         {
-            result.Add(numbers[i] + nums[i]);
+            sum.Add(firstKElements[i] += middlePart[i]);
         }
-        Console.WriteLine(string.Join(" " , result));
+        Console.WriteLine(string.Join(" " , sum));
     }
 }
 

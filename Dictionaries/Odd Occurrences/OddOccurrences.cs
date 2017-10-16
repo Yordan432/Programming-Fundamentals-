@@ -5,25 +5,30 @@ class OddOccurrences
 {
     static void Main()
     {
-        Dictionary<string, int> dictionary = new Dictionary<string, int>();
-        List<string> input = Console.ReadLine().ToLower().Split(' ').ToList();
-        for (int i = 0; i < input.Count; i++)
+        var input = Console.ReadLine().ToLower().Split(' ').ToArray();
+
+        Dictionary<string, int> dict = new Dictionary<string, int>();
+
+        int counter = 0;
+        foreach (var item in input)
         {
-            if (!dictionary.ContainsKey(input[i]))
+            if (!dict.ContainsKey(item))
             {
-                dictionary.Add(input[i], 0);
+                dict[item] = counter;
             }
-            dictionary[input[i]]++;
+            dict[item]++;
         }
+        int row = 0;
         List<string> output = new List<string>();
-        foreach (var item in dictionary)
+        foreach (var item in dict.Distinct())
         {
             if (item.Value % 2 != 0)
             {
-                output.Add(item.Key);        
+                output.Add(item.Key);
             }
         }
-        Console.WriteLine(string.Join(", " , output));
+       
+       Console.WriteLine(string.Join(", " , output));
     }
 }
 
